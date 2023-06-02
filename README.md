@@ -1,10 +1,10 @@
-#About 
+# About 
 Students need to interact with the admin for applying in any company and vice versa 
 for company, there is a need to maintain all these papers, causing large amount of 
 space. It is manually done, chances of missing, difficult to handle the details of 
 student. from this portal student can interact with company directly and company 
 directly with student online. All these functionality will work online
-#Screenshots
+# Screenshots
 
 # FinalProject![shot1](https://github.com/chesthagautam/FinalProject/assets/67582265/f36c84b7-a377-4c9f-9d43-a3222acf0a3f)
 ![shot2](https://github.com/chesthagautam/FinalProject/assets/67582265/c532210c-67c4-4877-9d64-28466078b0a4)
